@@ -6,20 +6,20 @@ powerful, and they have the largest database of music ratings/reviews
 (as far as I know). Check it out! It's a super cool music review website. 
 And check me out while you're there, https://rateyourmusic.com/~Caelohm
 		
-	Text files in the zip file WITHOUT " Missing" are the inital copy/paste 
+Text files in the zip file WITHOUT " Missing" are the inital copy/paste 
 from the rateyourmusic charts webpage. Text files WITH " Missing" are albums that 
 could not be found on Spotify. Sometimes Spotify albums are only available in 
 certain regions, I based everything off of the albums available in the US. They 
 may still be available on other streaming platforms, I just checked Spotify.
 
-	See rateyourmusic, they have links to streaming sources on album
+See rateyourmusic, they have links to streaming sources on album
 pages and charts. All else fails, you can try to aquire the audio files by
 some other means or look it up on Youtube.
 
 WHEN YOU LIKE A PLAYLIST, IT IS HIGHLY RECOMMENDED TO CHECK THE " MISSING" ALBUM 
 TEXT FILE OR THE RATEYOURMUSIC CHARTS FOR THE SPECIFIC SUB-GENRE.
 
-	Each song on EVERY playlist represents an album's most played song. If 
+Each song on EVERY playlist represents an album's most played song. If 
 a song stands out like a sore thumb in juxiposition to the rest of the songs in 
 a playlist, I may change the song from the album or remove that song entirely. 
 I will remove the song if I feel it is improperly categorized in a sub-genre.
@@ -28,14 +28,14 @@ be a good representation of the album.
 
 So CHECK OUT THE ALBUM IF YOU LIKE A SONG!
 
-	Keep in mind, some albums often add extra songs to the album (deluxe 
+Keep in mind, some albums often add extra songs to the album (deluxe 
 version, extended version, 20th Anniversary edition, UK vs. US release, etc.) 
 or maybe some songs are missing, or maybe the song order is all wrong, or maybe 
 the whole album is one song! Sometimes this issues arise without any warning! 
 		
-			Welcome to hell.
+Welcome to hell.
 
-	The reason this is annoying is because people often put on an album 
+The reason this is annoying is because people often put on an album 
 and leave it playing. Usually you expect an album to stop playing when it is 
 officially over, but then the song quality drops drastically as you enter a 
 bonus track or demo version on the tail end. CAN'T ARTISTS JUST MAKE UP THEIR 
@@ -45,12 +45,12 @@ JESUS.
 IF THIS HAPPENS BECAUSE OF SOME CORPORATE MANIPULATION, FUCK YOU RECORD LABEL OR
 WHOEVER APPROVES THIS SHIT.
 
-	Often reviewers do a good job of setting an official tracklist for an album. 
+Often reviewers do a good job of setting an official tracklist for an album. 
 I tried my best to avoid annoying album versions, but if you stumble upon a
 weird album version that I added, look it up on rateyourmusic and look at the "track
 listing". Often the deluxe version is the only version available. smh.
 
-	Please MESSAGE ME! when you believe something in the playlist is wrong 
+Please MESSAGE ME! when you believe something in the playlist is wrong 
 based on the rules I have set to make them. Do keep in mind, when new albums are
 released, they will not be put into these playlists. The only time I will add
 more albums is when I redo these playlists. If you want to know why, ask
@@ -78,20 +78,20 @@ the process of finding the most popular song off an album believe me, but it is
 not possible with the current state of Spotify's API, and is more complicated than 
 it seems.
 
-	Another thing to message me about is if there are two of the same songs
+Another thing to message me about is if there are two of the same songs
 on one playlist. I try not to have two songs that are the same. Sometimes I make
 an exception (if it's the same song but has some serious differences). This
 rule applies to the classical playlists and every playlist when the song is the same 
 but the artist isn't. I keep picking the next most popular song on an album if a song
 overlaps, even when there are multiple overlapping songs.
 
-	The charts used for the sub-genre playlists are in order of popularity.
+The charts used for the sub-genre playlists are in order of popularity.
 Live and Archived albums are included. If number 50 on the first page of the most
 popular albums for a subgenre does not have > 100 ratings, I skip making that 
 subgenre playlist. This is to prevent making playlists that are extremely short 
 with only 20 songs that meet 100 ratings (for example).
 
-	The album average rating cap and number of ratings cap is based on 
+The album average rating cap and number of ratings cap is based on 
 personal preference. For example, in the Comedy Rap sub-genre, albums are rated 
 very poorly from the beginning, so it has an album rating cap of 2/5.
 Usually I will set a low number of ratings cap if it will add a couple hundred 
@@ -107,7 +107,7 @@ FAQ:
 
 WHY NOT APPLE MUSIC?
 
-	 Apple Music's Windows Desktop app is very outdated and annoying to use.
+Apple Music's Windows Desktop app is very outdated and annoying to use.
 The automation I used to make these playlists would need to be reworked to search
 in Apple Music. I don't have an apple computer to use Apple Music. I personally am
 switching off of it because Spotify, for the most part, has everything I want. It
@@ -116,7 +116,7 @@ Spotify is better hands down. Also, these playlist would've taken 2x longer.
 
 WHY IS THERE A LIMITATION OF ONE SONG PER ALUBM?
 
-	Because people have lives to live. I'm pretty sure people would rather 
+Because people have lives to live. I'm pretty sure people would rather 
 listen to a 200 song playlist rather than a 400 song playlist (2 songs per album).
 Also, the more songs added, the longer it takes to make the playlist. Personally, 
 I would rather go to an album rather than have songs in a playlist. The more 
@@ -124,7 +124,7 @@ songs I add from an album, the closer the playlist is to just listening to the a
 Yes, there are songs that are literally an entire album on the playlist, but that's is 
 a small minority of the songs. I would rather include an album with one song than exclude it.
 
-	The point of these playlists is to make it easier to find new artists. If 
+The point of these playlists is to make it easier to find new artists. If 
 I had two songs per album, you would at some point listen to the same artist twice.
 That's overexposure and counterproductive when trying to find new artists because 
 most of the time, two songs on one album will give you the same vibe that the album 
@@ -136,15 +136,15 @@ One song works in my opinion and I stuck to it.
 I listen to the playlists more than anyone and have been making these sorts of
 playlists since 2018, take my word for it. 
 
-	I know what you're thinking, but what if a song that's picked is the one song 
+I know what you're thinking, but what if a song that's picked is the one song 
 I don't like on that album?
 
-	Ok, if you are really that concerned that the songs you don't like could have gems on 
+Ok, if you are really that concerned that the songs you don't like could have gems on 
 the album, be my guest, listen to the album even when you hate the most popular song. Yes, 
 you will find gems. That's the point, to compile a list of very popular albums that other
 people enjoy for you. When you don't like a song, just take it with a grain of salt.
 
-	Sorry if ^^this^^ sounds condescending, I get a little sassy when someone questions 
+Sorry if ^^this^^ sounds condescending, I get a little sassy when someone questions 
 something I'm so passionate about and have been working on for months. If you're reading this, 
 !!THANK YOU!! for reading, I know most people won't read this. :D
 
