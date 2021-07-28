@@ -64,7 +64,8 @@ So **CHECK OUT THE ALBUM IF YOU LIKE A SONG!**
 ## Python Code
 The python code in this repository titled "rym_scrape.py" helps search for a large 
 quantity of albums on Spotify by using a copy of the text from the rateyourmusic charts 
-and parsing it. It also writes missing albums to the " Missing" text files.
+and parsing it. It also writes missing albums to the " Missing" text files. I wrote it
+in it's entirity, although it may go through new iterations as time goes on.
 
 ## Annoying Issues
 Keep in mind, some albums often add extra songs to the album (deluxe 
