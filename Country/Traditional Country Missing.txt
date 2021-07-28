@@ -1,0 +1,210 @@
+*****************************************************
+Position: 17.
+
+Title: The Holy Modal Rounders
+
+Artist: The Holy Modal Rounders
+
+Average Rating: 3.56
+
+Number of Ratings: 395
+*****************************************************
+Position: 27.
+
+Title: Old & in the Way
+
+Artist: Old and in the Way
+
+Average Rating: 3.78
+
+Number of Ratings: 284
+*****************************************************
+Position: 36.
+
+Title: The Holy Modal Rounders 2
+
+Artist: The Holy Modal Rounders
+
+Average Rating: 3.34
+
+Number of Ratings: 212
+*****************************************************
+Position: 38.
+
+Title: The Cooking Stove Beast
+
+Artist: Caroliner Rainbow Susans and Bruisins
+
+Average Rating: 3.61
+
+Number of Ratings: 209
+*****************************************************
+Position: 45.
+
+Title: Memories
+
+Artist: Doc Watson
+
+Average Rating: 3.84
+
+Number of Ratings: 196
+*****************************************************
+Position: 50.
+
+Title: Hoboken Saturday Night
+
+Artist: The Insect Trust
+
+Average Rating: 3.24
+
+Number of Ratings: 146
+*****************************************************
+Position: 61.
+
+Title: The Long Riders
+
+Artist: Ry Cooder
+
+Average Rating: 3.35
+
+Number of Ratings: 131
+*****************************************************
+Position: 74.
+
+Title: Appalachian Swing!
+
+Artist: The Kentucky Colonels
+
+Average Rating: 3.72
+
+Number of Ratings: 109
+*****************************************************
+Position: 80.
+
+Title: Foggy Mountain Banjo
+
+Artist: Lester Flatt and Earl Scruggs and the Foggy Mountain Boys
+
+Average Rating: 3.66
+
+Number of Ratings: 100
+*****************************************************
+Position: 87.
+
+Title: Lifeline.
+
+Artist: Iris DeMent
+
+Average Rating: 3.52
+
+Number of Ratings: 92
+*****************************************************
+Position: 88.
+
+Title: The Unreleased Recordings
+
+Artist: Hank Williams
+
+Average Rating: 4.05
+
+Number of Ratings: 92
+*****************************************************
+Position: 125.
+
+Title: A Traitor in Our Midst
+
+Artist: Country Gazette
+
+Average Rating: 3.79
+
+Number of Ratings: 68
+*****************************************************
+Position: 131.
+
+Title: Bluegrass Ramble
+
+Artist: Bill Monroe and His Bluegrass Boys
+
+Average Rating: 3.83
+
+Number of Ratings: 67
+*****************************************************
+Position: 142.
+
+Title: Dona Got a Ramblin' Mind
+
+Artist: Carolina Chocolate Drops
+
+Average Rating: 3.37
+
+Number of Ratings: 64
+*****************************************************
+Position: 145.
+
+Title: Cheap Suit Serenaders
+
+Artist: R. Crumb and His Cheap Suit Serenaders
+
+Average Rating: 3.70
+
+Number of Ratings: 62
+*****************************************************
+Position: 152.
+
+Title: Saw Mill Man
+
+Artist: Cast King
+
+Average Rating: 3.73
+
+Number of Ratings: 60
+*****************************************************
+Position: 157.
+
+Title: Pickin' and Fiddlin'
+
+Artist: The Dillards with Byron Berline
+
+Average Rating: 3.30
+
+Number of Ratings: 58
+*****************************************************
+Position: 169.
+
+Title: Thank Heavens for Dale Evans
+
+Artist: Dixie Chicks
+
+Average Rating: 3.01
+
+Number of Ratings: 56
+*****************************************************
+Position: 183.
+
+Title: Don't Give Up Your Day Job
+
+Artist: Country Gazette
+
+Average Rating: 3.69
+
+Number of Ratings: 52
+*****************************************************
+Position: 184.
+
+Title: Down from the Mountain: Live Concert Performances by the Artists & Musicians of O Brother, Where Art Thou?
+
+Artist: Various Artists
+
+Average Rating: 3.61
+
+Number of Ratings: 52
+*****************************************************
+Position: 194.
+
+Title: Rare Bird Alert
+
+Artist: Steve Martin and The Steep Canyon Rangers
+
+Average Rating: 3.15
+
+Number of Ratings: 50

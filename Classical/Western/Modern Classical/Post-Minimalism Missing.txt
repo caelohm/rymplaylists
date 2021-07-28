@@ -1,0 +1,290 @@
+*****************************************************
+Position: 1.
+
+Title: The Ascension
+
+Artist: Glenn Branca
+
+Average Rating: 3.92
+
+Number of Ratings: 9,045
+*****************************************************
+Position: 8.
+
+Title: Dialoghi del presente
+
+Artist: Luciano Cilio
+
+Average Rating: 3.75
+
+Number of Ratings: 2,094
+*****************************************************
+Position: 15.
+
+Title: Lines
+
+Artist: Wacław Zimpel
+
+Average Rating: 3.42
+
+Number of Ratings: 874
+*****************************************************
+Position: 17.
+
+Title: LAM
+
+Artist: LAM
+
+Average Rating: 3.61
+
+Number of Ratings: 740
+*****************************************************
+Position: 34.
+
+Title: A Crimson Grail: For 400 Electric Guitars
+
+Artist: Rhys Chatham
+
+Average Rating: 3.30
+
+Number of Ratings: 472
+*****************************************************
+Position: 38.
+
+Title: Zimpel/Ziołek
+
+Artist: Wacław Zimpel  Kuba Ziołek
+
+Average Rating: 3.49
+
+Number of Ratings: 449
+*****************************************************
+Position: 49.
+
+Title: Die Donnergötter
+
+Artist: Rhys Chatham
+
+Average Rating: 3.51
+
+Number of Ratings: 374
+*****************************************************
+Position: 54.
+
+Title: Antico adagio
+
+Artist: Lino Capra Vaccina
+
+Average Rating: 3.52
+
+Number of Ratings: 328
+*****************************************************
+Position: 57.
+
+Title: Salon de musique
+
+Artist: Su Tissue
+
+Average Rating: 3.61
+
+Number of Ratings: 314
+*****************************************************
+Position: 60.
+
+Title: Animal Magnetism
+
+Artist: Arnold Dreyblatt and The Orchestra of Excited Strings
+
+Average Rating: 3.53
+
+Number of Ratings: 299
+*****************************************************
+Position: 61.
+
+Title: Recomposed by Carl Craig & Moritz von Oswald: Music by Maurice Ravel & Modest Mussorgsky
+
+Artist: Carl Craig  Moritz von Oswald
+
+Average Rating: 3.29
+
+Number of Ratings: 289
+*****************************************************
+Position: 65.
+
+Title: Simultonality
+
+Artist: Joshua Abrams  Natural Information Society
+
+Average Rating: 3.39
+
+Number of Ratings: 273
+*****************************************************
+Position: 79.
+
+Title: KI-Motion
+
+Artist: Mkwaju Ensemble
+
+Average Rating: 3.34
+
+Number of Ratings: 246
+*****************************************************
+Position: 85.
+
+Title: Mkwaju
+
+Artist: Mkwaju Ensemble
+
+Average Rating: 3.38
+
+Number of Ratings: 228
+*****************************************************
+Position: 91.
+
+Title: An Angel Moves Too Fast to See
+
+Artist: Rhys Chatham
+
+Average Rating: 3.35
+
+Number of Ratings: 215
+*****************************************************
+Position: 105.
+
+Title: 1000 Airplanes on the Roof
+
+Artist: Philip Glass
+
+Average Rating: 3.39
+
+Number of Ratings: 181
+*****************************************************
+Position: 106.
+
+Title: The Watchers
+
+Artist: James Blackshaw  Lubomyr Melnyk
+
+Average Rating: 3.29
+
+Number of Ratings: 180
+*****************************************************
+Position: 112.
+
+Title: Trance
+
+Artist: Michael Gordon  Icebreaker
+
+Average Rating: 3.53
+
+Number of Ratings: 167
+*****************************************************
+Position: 120.
+
+Title: Dennis Cleveland
+
+Artist: Mikel Rouse
+
+Average Rating: 3.62
+
+Number of Ratings: 153
+*****************************************************
+Position: 121.
+
+Title: Mandatory Reality
+
+Artist: Joshua Abrams  Natural Information Society
+
+Average Rating: 3.44
+
+Number of Ratings: 152
+*****************************************************
+Position: 125.
+
+Title: Show of Hands
+
+Artist: Robert Fripp  The League of Crafty Guitarists
+
+Average Rating: 3.35
+
+Number of Ratings: 143
+*****************************************************
+Position: 127.
+
+Title: Eating and Sleeping (#15)
+
+Artist: Kleg
+
+Average Rating: 3.44
+
+Number of Ratings: 140
+*****************************************************
+Position: 128.
+
+Title: Factor X
+
+Artist: Rhys Chatham
+
+Average Rating: 3.40
+
+Number of Ratings: 138
+*****************************************************
+Position: 140.
+
+Title: Intaglio
+
+Artist: 浜瀬元彦 [Motohiko Hamase]
+
+Average Rating: 3.37
+
+Number of Ratings: 126
+*****************************************************
+Position: 143.
+
+Title: Time Lapse
+
+Artist: Evan Parker
+
+Average Rating: 3.74
+
+Number of Ratings: 122
+*****************************************************
+Position: 147.
+
+Title: Soft Wave for Automatic Music Box
+
+Artist: 吉村弘 [Hiroshi Yoshimura]
+
+Average Rating: 3.23
+
+Number of Ratings: 119
+*****************************************************
+Position: 151.
+
+Title: "Guitar Trio Is My Life!"
+
+Artist: Rhys Chatham
+
+Average Rating: 3.71
+
+Number of Ratings: 111
+*****************************************************
+Position: 156.
+
+Title: Two Gongs (1971)
+
+Artist: Rhys Chatham
+
+Average Rating: 3.30
+
+Number of Ratings: 107
+*****************************************************
+Position: 160.
+
+Title: Détail monochrome
+
+Artist: Pascal Comelade
+
+Average Rating: 3.26
+
+Number of Ratings: 103

@@ -1,0 +1,60 @@
+*****************************************************
+Position: 131.
+
+Title: Seven Bridges Road
+
+Artist: Steve Young
+
+Average Rating: 3.76
+
+Number of Ratings: 130
+*****************************************************
+Position: 136.
+
+Title: Muleskinner
+
+Artist: Muleskinner
+
+Average Rating: 3.69
+
+Number of Ratings: 127
+*****************************************************
+Position: 140.
+
+Title: Jerry Jeff Walker
+
+Artist: Jerry Jeff Walker
+
+Average Rating: 3.74
+
+Number of Ratings: 126
+*****************************************************
+Position: 146.
+
+Title: The Taker / Tulsa
+
+Artist: Waylon Jennings
+
+Average Rating: 3.74
+
+Number of Ratings: 119
+*****************************************************
+Position: 150.
+
+Title: Rides Again
+
+Artist: David Allan Coe
+
+Average Rating: 3.64
+
+Number of Ratings: 115
+*****************************************************
+Position: 168.
+
+Title: Three Flew Over the Cuckoo's Nest
+
+Artist: Béla Fleck  The Flecktones
+
+Average Rating: 3.38
+
+Number of Ratings: 102

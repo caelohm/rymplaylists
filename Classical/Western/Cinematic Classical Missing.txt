@@ -1,0 +1,580 @@
+*****************************************************
+Position: 19.
+
+Title: Super Mario Galaxy
+
+Artist: Mario Galaxy Orchestra
+
+Average Rating: 4.00
+
+Number of Ratings: 1,075
+*****************************************************
+Position: 26.
+
+Title: Conan the Barbarian
+
+Artist: Basil Poledouris
+
+Average Rating: 3.93
+
+Number of Ratings: 862
+*****************************************************
+Position: 28.
+
+Title: ワンダと巨像 大地の咆哮 (Wander and the Colossus: Roar of the Earth)
+
+Artist: 大谷幸 [Ko Otani]
+
+Average Rating: 3.94
+
+Number of Ratings: 855
+*****************************************************
+Position: 30.
+
+Title: The Elder Scrolls III: Morrowind
+
+Artist: Jeremy Soule
+
+Average Rating: 3.88
+
+Number of Ratings: 766
+*****************************************************
+Position: 39.
+
+Title: Psycho
+
+Artist: Bernard Herrmann
+
+Average Rating: 3.88
+
+Number of Ratings: 659
+*****************************************************
+Position: 57.
+
+Title: The Legend of Zelda: 25th Anniversary Special Orchestra CD
+
+Artist: 近藤浩治 [Koji Kondo]
+
+Average Rating: 3.79
+
+Number of Ratings: 501
+*****************************************************
+Position: 61.
+
+Title: Kingdom Hearts II Original Soundtrack
+
+Artist: 下村陽子 [Yoko Shimomura]
+
+Average Rating: 3.93
+
+Number of Ratings: 472
+*****************************************************
+Position: 72.
+
+Title: ゼノブレイド Xenoblade
+
+Artist: 下村陽子 [Yoko Shimomura]  Manami Kiyota  ACE+
+
+Average Rating: 3.89
+
+Number of Ratings: 406
+*****************************************************
+Position: 92.
+
+Title: The Godfather, Part II
+
+Artist: Nino Rota  Carmine Coppola
+
+Average Rating: 3.84
+
+Number of Ratings: 347
+*****************************************************
+Position: 93.
+
+Title: Metal Gear Solid 3: Snake Eater
+
+Artist: Harry Gregson-Williams  日比野則彦 [Norihiko Hibino]
+
+Average Rating: 3.79
+
+Number of Ratings: 347
+*****************************************************
+Position: 112.
+
+Title: Super Mario Galaxy 2
+
+Artist: Mario Galaxy Orchestra
+
+Average Rating: 3.93
+
+Number of Ratings: 293
+*****************************************************
+Position: 113.
+
+Title: Neon Genesis Evangelion II
+
+Artist: 鷺巣詩郎 [Shiro Sagisu]
+
+Average Rating: 3.71
+
+Number of Ratings: 292
+*****************************************************
+Position: 115.
+
+Title: NieR Replicant ver.1.22474487139...
+
+Artist: 岡部啓一 [Keiichi Okabe], 帆足圭吾 [Keigo Hoashi], 石濱翔 [Kakeru Ishihama]  隆文西村 [Takafumi Nishimura]
+
+Average Rating: 3.56
+
+Number of Ratings: 288
+*****************************************************
+Position: 127.
+
+Title: Beetlejuice
+
+Artist: Danny Elfman
+
+Average Rating: 3.68
+
+Number of Ratings: 270
+*****************************************************
+Position: 135.
+
+Title: Aladdin
+
+Artist: Alan Menken  Howard Ashman  Tim Rice
+
+Average Rating: 3.66
+
+Number of Ratings: 258
+*****************************************************
+Position: 136.
+
+Title: Gattaca
+
+Artist: Michael Nyman
+
+Average Rating: 3.78
+
+Number of Ratings: 252
+*****************************************************
+Position: 139.
+
+Title: Neon Genesis Evangelion III
+
+Artist: 鷺巣詩郎 [Shiro Sagisu]
+
+Average Rating: 3.60
+
+Number of Ratings: 245
+*****************************************************
+Position: 147.
+
+Title: Star Trek: The Motion Picture
+
+Artist: Jerry Goldsmith
+
+Average Rating: 3.90
+
+Number of Ratings: 234
+*****************************************************
+Position: 148.
+
+Title: Il grande silenzio
+
+Artist: Ennio Morricone
+
+Average Rating: 3.92
+
+Number of Ratings: 230
+*****************************************************
+Position: 153.
+
+Title: 魔法少女まどか☆マギカ Original Soundtrack I (Puella Magi Madoka☆Magica Original Soundtrack CD Vol.1)
+
+Artist: 梶浦由記 [Yuki Kajiura]
+
+Average Rating: 3.84
+
+Number of Ratings: 226
+*****************************************************
+Position: 163.
+
+Title: Les ailes pourpres: le mystère des flamants
+
+Artist: The Cinematic Orchestra
+
+Average Rating: 3.52
+
+Number of Ratings: 210
+*****************************************************
+Position: 166.
+
+Title: Death Note II
+
+Artist: 平野義久 [Yoshihisa Hirano]  タニウチ ヒデキ [Hideki Taniuchi]
+
+Average Rating: 3.60
+
+Number of Ratings: 206
+*****************************************************
+Position: 185.
+
+Title: Brazil
+
+Artist: Michael Kamen
+
+Average Rating: 3.77
+
+Number of Ratings: 184
+*****************************************************
+Position: 195.
+
+Title: Days of Heaven
+
+Artist: Ennio Morricone
+
+Average Rating: 3.81
+
+Number of Ratings: 178
+*****************************************************
+Position: 198.
+
+Title: BioShock
+
+Artist: Garry Schyman
+
+Average Rating: 3.53
+
+Number of Ratings: 177
+*****************************************************
+Position: 213.
+
+Title: Trois couleurs: Rouge
+
+Artist: Zbigniew Preisner
+
+Average Rating: 3.71
+
+Number of Ratings: 167
+*****************************************************
+Position: 215.
+
+Title: The Fifth Element
+
+Artist: Éric Serra
+
+Average Rating: 3.53
+
+Number of Ratings: 166
+*****************************************************
+Position: 220.
+
+Title: From Russia With Love
+
+Artist: John Barry
+
+Average Rating: 3.75
+
+Number of Ratings: 162
+*****************************************************
+Position: 227.
+
+Title: La leggenda del pianista sull'oceano
+
+Artist: Ennio Morricone
+
+Average Rating: 3.73
+
+Number of Ratings: 156
+*****************************************************
+Position: 230.
+
+Title: 28 Weeks Later
+
+Artist: John Murphy
+
+Average Rating: 3.61
+
+Number of Ratings: 153
+*****************************************************
+Position: 233.
+
+Title: La cité des enfants perdus
+
+Artist: Angelo Badalamenti
+
+Average Rating: 3.77
+
+Number of Ratings: 150
+*****************************************************
+Position: 235.
+
+Title: Pearl Harbor
+
+Artist: Hans Zimmer
+
+Average Rating: 3.17
+
+Number of Ratings: 150
+*****************************************************
+Position: 242.
+
+Title: Carrie
+
+Artist: Pino Donaggio
+
+Average Rating: 3.88
+
+Number of Ratings: 145
+*****************************************************
+Position: 250.
+
+Title: The Elephant Man
+
+Artist: John Morris
+
+Average Rating: 3.76
+
+Number of Ratings: 141
+*****************************************************
+Position: 260.
+
+Title: Harry Potter and the Deathly Hallows, Part 1
+
+Artist: Alexandre Desplat
+
+Average Rating: 3.45
+
+Number of Ratings: 136
+*****************************************************
+Position: 263.
+
+Title: The Fly
+
+Artist: Howard Shore
+
+Average Rating: 3.71
+
+Number of Ratings: 134
+*****************************************************
+Position: 268.
+
+Title: Alien³
+
+Artist: Elliot Goldenthal
+
+Average Rating: 3.83
+
+Number of Ratings: 130
+*****************************************************
+Position: 273.
+
+Title: Demon's Souls
+
+Artist: Shunsuke Kida
+
+Average Rating: 3.39
+
+Number of Ratings: 128
+*****************************************************
+Position: 274.
+
+Title: ゼルダの伝説 ～時のオカリナ～ ハイラル・シンフォニー (The Legend of Zelda: Ocarina of Time - Hyrule Symphony)
+
+Artist: 加藤ジョーグループ [Joe Kato Group]  千代正行 [Masayuki Chiyo]  勝又隆一 [Ryuichi Katsumata]  河合夕子 [Yuko Kawai]  旭孝 [Takashi Asahi]
+
+Average Rating: 3.59
+
+Number of Ratings: 127
+*****************************************************
+Position: 276.
+
+Title: Le clan des siciliens
+
+Artist: Ennio Morricone
+
+Average Rating: 3.83
+
+Number of Ratings: 126
+*****************************************************
+Position: 278.
+
+Title: Interview With the Vampire
+
+Artist: Elliot Goldenthal
+
+Average Rating: 3.68
+
+Number of Ratings: 125
+*****************************************************
+Position: 284.
+
+Title: Predator
+
+Artist: Alan Silvestri
+
+Average Rating: 3.81
+
+Number of Ratings: 122
+*****************************************************
+Position: 285.
+
+Title: Fable
+
+Artist: Russell Shaw  Danny Elfman
+
+Average Rating: 3.69
+
+Number of Ratings: 122
+*****************************************************
+Position: 286.
+
+Title: ゴジラ (Gojira)
+
+Artist: 伊福部昭 [Akira Ifukube]
+
+Average Rating: 4.06
+
+Number of Ratings: 121
+*****************************************************
+Position: 293.
+
+Title: 秒速5センチメートル
+
+Artist: 天門 [Tenmon]
+
+Average Rating: 3.62
+
+Number of Ratings: 117
+*****************************************************
+Position: 295.
+
+Title: Super Smash Bros. Melee Smashing... Live! Live Orchestra Music
+
+Artist: 新日本フィルハーモニー交響楽団 [New Japan Philharmonic]  竹本泰蔵 [Taizo Takemoto]
+
+Average Rating: 3.80
+
+Number of Ratings: 115
+*****************************************************
+Position: 299.
+
+Title: Catch Me If You Can
+
+Artist: John Williams
+
+Average Rating: 3.42
+
+Number of Ratings: 113
+*****************************************************
+Position: 301.
+
+Title: BioShock Infinite Digital Soundtrack
+
+Artist: Garry Schyman
+
+Average Rating: 3.37
+
+Number of Ratings: 113
+*****************************************************
+Position: 304.
+
+Title: エルフェンリート (Elfen Lied)
+
+Artist: 小西香葉 [Kayo Konishi]  近藤由紀夫 [Yukio Kondo]
+
+Average Rating: 3.53
+
+Number of Ratings: 112
+*****************************************************
+Position: 310.
+
+Title: World of Goo
+
+Artist: Kyle Gabler
+
+Average Rating: 3.72
+
+Number of Ratings: 111
+*****************************************************
+Position: 312.
+
+Title: Trois couleurs: Blanc (Trzy kolory: Bialy)
+
+Artist: Zbigniew Preisner
+
+Average Rating: 3.45
+
+Number of Ratings: 109
+*****************************************************
+Position: 313.
+
+Title: The Ninth Gate
+
+Artist: Wojciech Kilar
+
+Average Rating: 3.85
+
+Number of Ratings: 109
+*****************************************************
+Position: 319.
+
+Title: Willow
+
+Artist: James Horner
+
+Average Rating: 3.93
+
+Number of Ratings: 107
+*****************************************************
+Position: 323.
+
+Title: War of the Worlds
+
+Artist: John Williams
+
+Average Rating: 3.16
+
+Number of Ratings: 105
+*****************************************************
+Position: 326.
+
+Title: First Blood
+
+Artist: Jerry Goldsmith
+
+Average Rating: 3.72
+
+Number of Ratings: 104
+*****************************************************
+Position: 334.
+
+Title: Signs
+
+Artist: James Newton Howard
+
+Average Rating: 3.77
+
+Number of Ratings: 102
+*****************************************************
+Position: 336.
+
+Title: Ben-hur
+
+Artist: Miklós Rózsa
+
+Average Rating: 3.83
+
+Number of Ratings: 100
+*****************************************************
+Position: 337.
+
+Title: Starship Troopers
+
+Artist: Basil Poledouris
+
+Average Rating: 3.74
+
+Number of Ratings: 100

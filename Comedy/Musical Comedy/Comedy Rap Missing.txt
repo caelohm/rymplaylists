@@ -1,0 +1,330 @@
+*****************************************************
+Position: 2.
+
+Title: Pink Guy
+
+Artist: Pink Guy
+
+Average Rating: 2.08
+
+Number of Ratings: 1,403
+*****************************************************
+Position: 20.
+
+Title: Kaseta z komuni
+
+Artist: Klocuch
+
+Average Rating: 3.47
+
+Number of Ratings: 207
+*****************************************************
+Position: 31.
+
+Title: Z Nietzsche na betonie
+
+Artist: Fantomowa Erekcja
+
+Average Rating: 3.15
+
+Number of Ratings: 141
+*****************************************************
+Position: 41.
+
+Title: Dunkey's Album
+
+Artist: Dunkey
+
+Average Rating: 2.87
+
+Number of Ratings: 99
+*****************************************************
+Position: 42.
+
+Title: Because I Got High
+
+Artist: Afroman
+
+Average Rating: 2.46
+
+Number of Ratings: 97
+*****************************************************
+Position: 44.
+
+Title: Epikiruejski cytoblast ulicy
+
+Artist: Obrońcy Hardkoru
+
+Average Rating: 3.70
+
+Number of Ratings: 87
+*****************************************************
+Position: 59.
+
+Title: Muzyka kozacka
+
+Artist: Dwa Sławy
+
+Average Rating: 3.32
+
+Number of Ratings: 64
+*****************************************************
+Position: 60.
+
+Title: Yamber
+
+Artist: Dry Eyes
+
+Average Rating: 2.82
+
+Number of Ratings: 60
+*****************************************************
+Position: 62.
+
+Title: Poon Patrol
+
+Artist: Poon Patrol
+
+Average Rating: 2.01
+
+Number of Ratings: 53
+*****************************************************
+Position: 64.
+
+Title: Poon Patrol 2
+
+Artist: Poon Patrol
+
+Average Rating: 2.93
+
+Number of Ratings: 51
+*****************************************************
+Position: 66.
+
+Title: Koniec Mięsa
+
+Artist: Fantomowa Erekcja
+
+Average Rating: 3.49
+
+Number of Ratings: 49
+*****************************************************
+Position: 67.
+
+Title: Safe as Fuck
+
+Artist: Goldie Lookin' Chain
+
+Average Rating: 3.01
+
+Number of Ratings: 48
+*****************************************************
+Position: 68.
+
+Title: Prepare for Impact
+
+Artist: Tom Green
+
+Average Rating: 3.03
+
+Number of Ratings: 48
+*****************************************************
+Position: 72.
+
+Title: Головокружение
+
+Artist: Ленина пакет [Lenina Paket]
+
+Average Rating: 3.52
+
+Number of Ratings: 46
+*****************************************************
+Position: 75.
+
+Title: Crack Street Boys 2
+
+Artist: Trailerpark
+
+Average Rating: 2.50
+
+Number of Ratings: 43
+*****************************************************
+Position: 76.
+
+Title: Zoom
+
+Artist: Sheogorath
+
+Average Rating: 3.45
+
+Number of Ratings: 43
+*****************************************************
+Position: 78.
+
+Title: Ын-Tunes
+
+Artist: Ленина пакет [Lenina Paket]
+
+Average Rating: 3.22
+
+Number of Ratings: 42
+*****************************************************
+Position: 84.
+
+Title: T'as vu
+
+Artist: Fatal Bazooka
+
+Average Rating: 2.26
+
+Number of Ratings: 38
+*****************************************************
+Position: 85.
+
+Title: Dla sławy
+
+Artist: Dwa Sławy
+
+Average Rating: 3.05
+
+Number of Ratings: 38
+*****************************************************
+Position: 94.
+
+Title: Kreezus
+
+Artist: Local Business Comedy
+
+Average Rating: 2.54
+
+Number of Ratings: 34
+*****************************************************
+Position: 95.
+
+Title: Season 1
+
+Artist: Josip on Deck
+
+Average Rating: 2.29
+
+Number of Ratings: 33
+*****************************************************
+Position: 97.
+
+Title: Let's Get Serious
+
+Artist: Party Fun Action Committee
+
+Average Rating: 2.74
+
+Number of Ratings: 32
+*****************************************************
+Position: 98.
+
+Title: Bóg jest miłością
+
+Artist: Wini
+
+Average Rating: 2.34
+
+Number of Ratings: 32
+*****************************************************
+Position: 104.
+
+Title: Hotel Coral Essex
+
+Artist: Futuristic Sex Robotz
+
+Average Rating: 2.66
+
+Number of Ratings: 30
+*****************************************************
+Position: 106.
+
+Title: J.G. Goes Trap
+
+Artist: Sonders.
+
+Average Rating: 3.16
+
+Number of Ratings: 30
+*****************************************************
+Position: 111.
+
+Title: Poczet królów polskich
+
+Artist: T-Raperzy znad Wisły
+
+Average Rating: 2.98
+
+Number of Ratings: 28
+*****************************************************
+Position: 115.
+
+Title: Scotchworld
+
+Artist: Travis Scotch
+
+Average Rating: 2.41
+
+Number of Ratings: 28
+*****************************************************
+Position: 119.
+
+Title: КТО ? ТЫ
+
+Artist: Ленина пакет [Lenina Paket]
+
+Average Rating: 2.93
+
+Number of Ratings: 27
+*****************************************************
+Position: 120.
+
+Title: Beni culturali Volume 2: Renegade
+
+Artist: Piccoli Cani Squadra
+
+Average Rating: 3.45
+
+Number of Ratings: 27
+*****************************************************
+Position: 127.
+
+Title: 2 Hype 2 Wype
+
+Artist: Hawd Gankstuh Rappuh Mc's Wid Ghatz
+
+Average Rating: 3.12
+
+Number of Ratings: 25
+*****************************************************
+Position: 128.
+
+Title: Jobe Bells
+
+Artist: Afroman
+
+Average Rating: 2.26
+
+Number of Ratings: 25
+*****************************************************
+Position: 130.
+
+Title: Homocaust
+
+Artist: Lolocaust
+
+Average Rating: 3.03
+
+Number of Ratings: 25
+*****************************************************
+Position: 132.
+
+Title: The Tape
+
+Artist: Ленина пакет [Lenina Paket]
+
+Average Rating: 2.96
+
+Number of Ratings: 25

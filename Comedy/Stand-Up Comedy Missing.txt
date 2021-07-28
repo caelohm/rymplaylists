@@ -1,0 +1,190 @@
+*****************************************************
+Position: 24.
+
+Title: Chewed Up
+
+Artist: Louis C.K.
+
+Average Rating: 3.83
+
+Number of Ratings: 293
+*****************************************************
+Position: 30.
+
+Title: I'm Telling You for the Last Time
+
+Artist: Jerry Seinfeld
+
+Average Rating: 3.65
+
+Number of Ratings: 220
+*****************************************************
+Position: 43.
+
+Title: Shock and Awe: Live at Oxford Playhouse
+
+Artist: Bill Hicks
+
+Average Rating: 3.73
+
+Number of Ratings: 154
+*****************************************************
+Position: 56.
+
+Title: Something to Take the Edge Off
+
+Artist: Doug Stanhope
+
+Average Rating: 3.75
+
+Number of Ratings: 121
+*****************************************************
+Position: 65.
+
+Title: Word: Live at Carnegie Hall
+
+Artist: Louis C.K.
+
+Average Rating: 3.57
+
+Number of Ratings: 113
+*****************************************************
+Position: 74.
+
+Title: Oh My God
+
+Artist: Louis C.K.
+
+Average Rating: 3.75
+
+Number of Ratings: 100
+*****************************************************
+Position: 79.
+
+Title: Live at the Beacon Theater
+
+Artist: Louis C.K.
+
+Average Rating: 3.74
+
+Number of Ratings: 97
+*****************************************************
+Position: 88.
+
+Title: Live in Houston
+
+Artist: Louis C.K.
+
+Average Rating: 3.58
+
+Number of Ratings: 89
+*****************************************************
+Position: 90.
+
+Title: The Boxed Life
+
+Artist: Henry Rollins
+
+Average Rating: 3.71
+
+Number of Ratings: 88
+*****************************************************
+Position: 102.
+
+Title: Live at the Comedy Store
+
+Artist: Louis C.K.
+
+Average Rating: 3.59
+
+Number of Ratings: 80
+*****************************************************
+Position: 106.
+
+Title: Sicko
+
+Artist: Doug Stanhope
+
+Average Rating: 3.77
+
+Number of Ratings: 77
+*****************************************************
+Position: 107.
+
+Title: Die Laughing
+
+Artist: Doug Stanhope
+
+Average Rating: 3.73
+
+Number of Ratings: 77
+*****************************************************
+Position: 108.
+
+Title: Why Do I Do This?
+
+Artist: Bill Burr
+
+Average Rating: 3.61
+
+Number of Ratings: 77
+*****************************************************
+Position: 119.
+
+Title: Emotionally Unavailable
+
+Artist: Bill Burr
+
+Average Rating: 3.49
+
+Number of Ratings: 68
+*****************************************************
+Position: 123.
+
+Title: Let It Go
+
+Artist: Bill Burr
+
+Average Rating: 3.70
+
+Number of Ratings: 64
+*****************************************************
+Position: 125.
+
+Title: Shameless
+
+Artist: Louis C.K.
+
+Average Rating: 3.68
+
+Number of Ratings: 64
+*****************************************************
+Position: 130.
+
+Title: Weirdo
+
+Artist: Donald Glover
+
+Average Rating: 3.29
+
+Number of Ratings: 61
+*****************************************************
+Position: 133.
+
+Title: Oslo - Burning the Bridge to Nowhere
+
+Artist: Doug Stanhope
+
+Average Rating: 3.35
+
+Number of Ratings: 57
+*****************************************************
+Position: 147.
+
+Title: Live 2002
+
+Artist: Robin Williams
+
+Average Rating: 3.56
+
+Number of Ratings: 51

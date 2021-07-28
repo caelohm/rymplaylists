@@ -1,0 +1,60 @@
+*****************************************************
+Position: 6.
+
+Title: Guitars, Cadillacs, Etc., Etc.
+
+Artist: Dwight Yoakam
+
+Average Rating: 3.66
+
+Number of Ratings: 687
+*****************************************************
+Position: 20.
+
+Title: No Fences
+
+Artist: Garth Brooks
+
+Average Rating: 3.22
+
+Number of Ratings: 360
+*****************************************************
+Position: 31.
+
+Title: Ropin' the Wind
+
+Artist: Garth Brooks
+
+Average Rating: 3.26
+
+Number of Ratings: 285
+*****************************************************
+Position: 44.
+
+Title: Garth Brooks
+
+Artist: Garth Brooks
+
+Average Rating: 3.25
+
+Number of Ratings: 220
+*****************************************************
+Position: 45.
+
+Title: In Pieces
+
+Artist: Garth Brooks
+
+Average Rating: 3.20
+
+Number of Ratings: 213
+*****************************************************
+Position: 101.
+
+Title: Scarecrow
+
+Artist: Garth Brooks
+
+Average Rating: 3.01
+
+Number of Ratings: 128

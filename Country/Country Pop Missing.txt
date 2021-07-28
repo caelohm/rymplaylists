@@ -1,0 +1,120 @@
+*****************************************************
+Position: 35.
+
+Title: Foreverly
+
+Artist: Billie Joe + Norah
+
+Average Rating: 2.97
+
+Number of Ratings: 303
+*****************************************************
+Position: 40.
+
+Title: Ropin' the Wind
+
+Artist: Garth Brooks
+
+Average Rating: 3.26
+
+Number of Ratings: 285
+*****************************************************
+Position: 59.
+
+Title: In Pieces
+
+Artist: Garth Brooks
+
+Average Rating: 3.20
+
+Number of Ratings: 213
+*****************************************************
+Position: 75.
+
+Title: The Chase
+
+Artist: Garth Brooks
+
+Average Rating: 2.95
+
+Number of Ratings: 189
+*****************************************************
+Position: 91.
+
+Title: Arkansas Traveler
+
+Artist: Michelle Shocked
+
+Average Rating: 3.60
+
+Number of Ratings: 166
+*****************************************************
+Position: 92.
+
+Title: Fresh Horses
+
+Artist: Garth Brooks
+
+Average Rating: 2.80
+
+Number of Ratings: 166
+*****************************************************
+Position: 93.
+
+Title: Sevens
+
+Artist: Garth Brooks
+
+Average Rating: 2.83
+
+Number of Ratings: 166
+*****************************************************
+Position: 97.
+
+Title: Poncho & Lefty
+
+Artist: Merle Haggard  Willie Nelson
+
+Average Rating: 3.45
+
+Number of Ratings: 158
+*****************************************************
+Position: 98.
+
+Title: Double Live
+
+Artist: Garth Brooks
+
+Average Rating: 3.40
+
+Number of Ratings: 158
+*****************************************************
+Position: 128.
+
+Title: Scarecrow
+
+Artist: Garth Brooks
+
+Average Rating: 3.01
+
+Number of Ratings: 128
+*****************************************************
+Position: 139.
+
+Title: The End of the World
+
+Artist: Skeeter Davis
+
+Average Rating: 3.43
+
+Number of Ratings: 120
+*****************************************************
+Position: 164.
+
+Title: Finger-Style Guitar
+
+Artist: Chet Atkins
+
+Average Rating: 3.44
+
+Number of Ratings: 105

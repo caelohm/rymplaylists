@@ -1,0 +1,80 @@
+*****************************************************
+Position: 4.
+
+Title: Switched-On Bach
+
+Artist: Walter Carlos
+
+Average Rating: 3.46
+
+Number of Ratings: 880
+*****************************************************
+Position: 11.
+
+Title: Die Kunst der Fuge
+
+Artist: Tatiana Nikolayeva
+
+Average Rating: 3.93
+
+Number of Ratings: 402
+*****************************************************
+Position: 23.
+
+Title: The Well-Tempered Synthesizer
+
+Artist: Walter Carlos
+
+Average Rating: 3.57
+
+Number of Ratings: 239
+*****************************************************
+Position: 36.
+
+Title: Vespro della Beata Vergine
+
+Artist: Dresdner Kammerchor  Hans-Christoph Rademann
+
+Average Rating: 3.91
+
+Number of Ratings: 179
+*****************************************************
+Position: 55.
+
+Title: Sympathy for Lady Vengeance
+
+Artist: Cho Young-wuk, Choi Seung-hyun, Lee Ji-soo  Na Seok Joo
+
+Average Rating: 3.71
+
+Number of Ratings: 128
+*****************************************************
+Position: 56.
+
+Title: Das wohltemperierte Klavier 2
+
+Artist: Gustav Leonhardt
+
+Average Rating: 3.94
+
+Number of Ratings: 125
+*****************************************************
+Position: 62.
+
+Title: Switched-On Bach II
+
+Artist: Walter Carlos
+
+Average Rating: 3.40
+
+Number of Ratings: 116
+*****************************************************
+Position: 79.
+
+Title: Plays Henry Purcell
+
+Artist: Raphael Rogiński
+
+Average Rating: 3.45
+
+Number of Ratings: 95
