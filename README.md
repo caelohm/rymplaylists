@@ -153,7 +153,7 @@ One song works in my opinion and I stuck to it.
 I listen to the playlists more than anyone and have been making these sorts of
 playlists since 2018, take my word for it. 
 
-*I know what you're thinking, but what if a song that's picked is the one song 
+I know what you're thinking, *but what if a song that's picked is the one song 
 I don't like on that album?*
 
 Ok, if you are really that concerned that the songs you don't like could have gems on 
