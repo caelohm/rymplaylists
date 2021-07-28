@@ -92,10 +92,10 @@ only time I will add more albums is when I redo these playlists. If you want to 
 why, ask me on reddit.
 
 Some potential places it is very possible I fucked up:
-* 1. Missing a sub-genre. 
+1. Missing a sub-genre. 
 There are a lot of subgenres and one me.
 
-* 2. Missing an album on Spotify. 
+1. Missing an album on Spotify. 
 Sometimes, it is really hard to find an album on
 Spotify. I am disincentivized to spend time looking for albums because it takes
 longer to complete the playlist. The easiest way for me to find an album when 
@@ -106,13 +106,13 @@ link on rateyourmusic, PLEASE add it by copying the share link and putting it
 on the album page. You can find the albums I wanted to add but couldn't find in
 the " Missing" text files.
 
-* 3. Adding the wrong "most popular" song for an album. 
+1. Adding the wrong "most popular" song for an album. 
 This is the least likely of all of these, but it can still happen because humans are 
 imperfect. I would automate the process of finding the most popular song off an album 
 believe me, but it is not possible with the current state of Spotify's API, and is more 
 complicated than it seems.
 
-* 4. Adding two of the same songs on one playlist. 
+1. Adding two of the same songs on one playlist. 
 I try not to have two songs that are the same. Sometimes I make an exception (if it's 
 the same song but has some serious differences). This rule applies to the classical 
 playlists and every playlist when the song is the same but the artist isn't. I keep 
