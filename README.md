@@ -1,5 +1,6 @@
 # RYMPLAYLISTS
 
+## Promotion
 Anytime I say rateyourmusic or RYM, I am talking about rateyourmusic.com,
 the website used to make these playlists possible. Their charts are super
 powerful, and they have the largest database of music ratings/reviews 
