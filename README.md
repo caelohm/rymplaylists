@@ -13,9 +13,13 @@ playlists that try to introduce the most popular songs from the most popular art
 within every genre of rateyourmusic. I have set limitations on the number of albums 
 added to save some time and set rating caps for the popularity charts. Each song on 
 every playlist represents an album in the charts, it's position in popularity, and the 
-most popular song of that album. The playlists are located on my Spotify profile
+most popular song of that album. 
+
+## Playlists
+The playlists are located on my Spotify profile
 under the folder Rateyourmusic Genres 2021. link to my 
 [Spotify](https://open.spotify.com/user/226ny2ikdvr7wi2lq62guxtfy?si=9ded19b0b7ec4267).
+Pay close attention to the descriptions of the playlists, they hold the average rating and number of rating cap.
 
 ## Albums I Couldn't Find
 Text files in the genre folders **WITHOUT** " Missing" are the inital copy/paste 
