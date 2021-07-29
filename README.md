@@ -107,8 +107,8 @@ Spotify. I am disincentivized to spend time looking for albums because it takes
 longer to complete the playlist. The easiest way for me to find an album when 
 I can't find it searching the album and artist is through rateyourmusic's 
 streaming links on album pages, or by looking at an artist page scrolling 
-through their albums. So, If you find some album that doesn't have a streaming 
-link on rateyourmusic, PLEASE add it by copying the share link and putting it 
+through their albums in Spotify. So, If you find some album that doesn't have a 
+streaming link on rateyourmusic, PLEASE add it by copying the share link and putting it 
 on the album page. You can find the albums I wanted to add but couldn't find in
 the " Missing" text files.
 
