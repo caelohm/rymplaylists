@@ -153,8 +153,9 @@ That's overexposure and counterproductive when trying to find new artists becaus
 most of the time, two songs on one album will give you the same vibe that the album 
 inhabits. If we really want it to be equal, lets set a certain time each album is 
 allowed to be represented on the playlist. Ok, now I have to add up songs on each 
-album to make sure I don't add too many and go over the playtime per album. You see 
-how this is getting complicated? The more complicated, the longer it takes. 
+album to make sure I don't add too many and go over the playtime per album. 
+
+You see how this is getting complicated? The more complicated, the longer it takes. 
 One song works in my opinion and I stuck to it. 
 I listen to the playlists more than anyone and have been making these sorts of
 playlists since 2018, take my word for it. 
