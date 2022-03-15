@@ -85,9 +85,8 @@ officially over, but then the song quality drops drastically as you enter a
 bonus track or demo version on the tail end. **CAN'T ARTISTS JUST MAKE UP THEIR 
 MIND ABOUT WHAT THEY WANT ON AN ALBUM BEFORE RELEASE??? IF YOU WANT TO ADD 
 EXTRA MATERIAL, PUT IT ON A DIFFERENT ALBUM OR COLLECTION FOR THE HARDCORE FANS. 
-JESUS.
-IF THIS HAPPENS BECAUSE OF SOME CORPORATE MANIPULATION, FUCK YOU RECORD LABEL OR
-WHOEVER APPROVES THIS SHIT.**
+IF THIS HAPPENS BECAUSE OF SOME CORPORATE MANIPULATION, WHAT IS WRONG WITH YOU RECORD LABEL OR
+WHOEVER APPROVES THIS.**
 
 Often reviewers do a good job of setting an official tracklist for an album. 
 I tried my best to avoid annoying album versions, but if you stumble upon a
