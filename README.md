@@ -1,5 +1,7 @@
 # RYMPLAYLISTS
 
+[Abandonded because of inefficiencies. Waiting for rateyourmusic.com API]
+
 ## Promotion
 Anytime I say rateyourmusic or RYM, I am talking about https://rateyourmusic.com/,
 the website used to make these playlists possible. Their charts are super
