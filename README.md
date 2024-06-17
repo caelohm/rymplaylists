@@ -1,6 +1,6 @@
 # RYMPLAYLISTS
 
-[Abandonded because of inefficiencies. Waiting for rateyourmusic.com API]
+[Abandonded because of inefficiencies. Waiting for rateyourmusic.com API] See: https://rateyourmusic.com/rymzilla/view?id=683
 
 ## Promotion
 Anytime I say rateyourmusic or RYM, I am talking about https://rateyourmusic.com/,
