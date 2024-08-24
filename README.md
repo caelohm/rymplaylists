@@ -17,7 +17,7 @@ added to save some time and set rating caps for the popularity charts. Each song
 every playlist represents an album in the charts, it's position in popularity, and the 
 most popular song of that album. 
 
-** Update from 2024 me to 2017 me
+##** Update from 2024 me to 2017 me
 However the code for this project is largely useless because it relied on me sending
 commands to my mouse and keyboard through python. The mouse commands
 depend on the resolution of your display :1 and they also depend on where your 
