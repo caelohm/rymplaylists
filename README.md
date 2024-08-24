@@ -17,6 +17,7 @@ added to save some time and set rating caps for the popularity charts. Each song
 every playlist represents an album in the charts, it's position in popularity, and the 
 most popular song of that album. 
 
+** Update from 2024 me to 2017 me
 However the code for this project is largely useless because it relied on me sending
 commands to my mouse and keyboard through python. The mouse commands
 depend on the resolution of your display :1 and they also depend on where your 
@@ -26,8 +27,15 @@ some automation (albeit probably bad automation).
 I'm talking sitting at my computer for months to make one playlsit. 
 If I were to redo this project I would have used more advanced scraping techniques, 
 but then there is a higher chance of getting banned by the website which is why 
-I'm waiting on the API. I'll be waiting the rest of my life unfortunately 
-because it's progressing at a snail's pace.
+I'm waiting on the API. I'll be waiting the rest of my life unfortunately.
+where's the api dude :(.
+
+Aaaaaand I would also not do it based on most popular albums, I probably would
+have a mix of most popular and highest rated. and then I would use the highest 
+rated song on rym instead of using the highest playcount from spotify for the
+song I pick from each album. Aaaaand I would also send commands through Spotify's
+API to make the playlists instead of doing it all by hand. What was I doing this
+is psychotic the ammount of time I put into this.
 
 ## Playlists
 The playlists are located on my Spotify profile.
