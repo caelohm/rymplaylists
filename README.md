@@ -28,7 +28,7 @@ I'm talking sitting at my computer for months to make one playlist.
 If I were to redo this project I would have used more advanced scraping techniques, 
 but then there is a higher chance of getting banned by the website which is why 
 I'm waiting on the API. I'll be waiting the rest of my life unfortunately.
-where's the api dude :(.
+where's the api dude :( It's been literal YEARS.
 
 Aaaaaand I would also not do it based on most popular albums, I probably would
 have a mix of most popular and highest rated. and then I would use the highest 
