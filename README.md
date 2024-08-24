@@ -24,7 +24,7 @@ depend on the resolution of your display :1 and they also depend on where your
 applications are located on your computer. Sooooo yeah and I'm not revisiting it
 because it was very, VERY time comsuming to make the playlists in general, even with
 some automation (albeit probably bad automation). 
-I'm talking sitting at my computer for months to make one playlsit. 
+I'm talking sitting at my computer for months to make one playlist. 
 If I were to redo this project I would have used more advanced scraping techniques, 
 but then there is a higher chance of getting banned by the website which is why 
 I'm waiting on the API. I'll be waiting the rest of my life unfortunately.
