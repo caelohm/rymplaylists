@@ -18,8 +18,8 @@ every playlist represents an album in the charts, it's position in popularity, a
 most popular song of that album. 
 
 ## Playlists
-The playlists are located on my Spotify profile
-under the folder Rateyourmusic Genres 2021. link to my 
+The playlists are located on my Spotify profile.
+Either they have a all capitalized title or they have RYM in the title. link to my 
 [Spotify](https://open.spotify.com/user/226ny2ikdvr7wi2lq62guxtfy?si=9ded19b0b7ec4267).
 Pay close attention to the descriptions of the playlists, they hold the average rating and number of rating cap.
 
