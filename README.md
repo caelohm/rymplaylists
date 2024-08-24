@@ -17,9 +17,21 @@ added to save some time and set rating caps for the popularity charts. Each song
 every playlist represents an album in the charts, it's position in popularity, and the 
 most popular song of that album. 
 
+However the code for this project is largely useless because it relied on me sending
+commands to my mouse and keyboard through python. The mouse commands
+depend on the resolution of your display :1 and they also depend on where your 
+applications are located on your computer. Sooooo yeah and I'm not revisiting it
+because it was very, VERY time comsuming to make the playlists in general, even with
+some automation (albeit probably bad automation). 
+I'm talking sitting at my computer for months to make one playlsit. 
+If I were to redo this project I would have used more advanced scraping techniques, 
+but then there is a higher chance of getting banned by the website which is why 
+I'm waiting on the API. I'll be waiting the rest of my life unfortunately 
+because it's progressing at a snail's pace.
+
 ## Playlists
 The playlists are located on my Spotify profile.
-Either they have a all capitalized title or they have RYM in the title. link to my 
+Either they have an all capitalized title or they have RYM in the title. link to my 
 [Spotify](https://open.spotify.com/user/226ny2ikdvr7wi2lq62guxtfy?si=9ded19b0b7ec4267).
 Pay close attention to the descriptions of the playlists, they hold the average rating and number of rating cap.
 
